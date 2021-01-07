@@ -1,25 +1,17 @@
 {
   "files": {
     "main.css": "/calculator/static/css/main.6fdcdd19.chunk.css",
-    "main.js": "/calculator/static/js/main.687c4a75.chunk.js",
-    "main.js.map": "/calculator/static/js/main.687c4a75.chunk.js.map",
-    "runtime-main.js": "/calculator/static/js/runtime-main.51f5447e.js",
-    "runtime-main.js.map": "/calculator/static/js/runtime-main.51f5447e.js.map",
-    "static/css/2.5861e1ce.chunk.css": "/calculator/static/css/2.5861e1ce.chunk.css",
-    "static/js/2.c5636010.chunk.js": "/calculator/static/js/2.c5636010.chunk.js",
-    "static/js/2.c5636010.chunk.js.map": "/calculator/static/js/2.c5636010.chunk.js.map",
+    "main.js": "/calculator/static/js/main.027dc7db.chunk.js",
+    "main.js.map": "/calculator/static/js/main.027dc7db.chunk.js.map",
+    "runtime~main.js": "/calculator/static/js/runtime~main.2539f434.js",
+    "runtime~main.js.map": "/calculator/static/js/runtime~main.2539f434.js.map",
+    "static/css/2.f87fbcaa.chunk.css": "/calculator/static/css/2.f87fbcaa.chunk.css",
+    "static/js/2.9067ee69.chunk.js": "/calculator/static/js/2.9067ee69.chunk.js",
+    "static/js/2.9067ee69.chunk.js.map": "/calculator/static/js/2.9067ee69.chunk.js.map",
     "index.html": "/calculator/index.html",
-    "precache-manifest.8eb828727550e694c0df81dcf0fcfd45.js": "/calculator/precache-manifest.8eb828727550e694c0df81dcf0fcfd45.js",
+    "precache-manifest.8d98376124c3f6ebca7bbe2c731184b8.js": "/calculator/precache-manifest.8d98376124c3f6ebca7bbe2c731184b8.js",
     "service-worker.js": "/calculator/service-worker.js",
-    "static/css/2.5861e1ce.chunk.css.map": "/calculator/static/css/2.5861e1ce.chunk.css.map",
-    "static/css/main.6fdcdd19.chunk.css.map": "/calculator/static/css/main.6fdcdd19.chunk.css.map",
-    "static/js/2.c5636010.chunk.js.LICENSE.txt": "/calculator/static/js/2.c5636010.chunk.js.LICENSE.txt"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.51f5447e.js",
-    "static/css/2.5861e1ce.chunk.css",
-    "static/js/2.c5636010.chunk.js",
-    "static/css/main.6fdcdd19.chunk.css",
-    "static/js/main.687c4a75.chunk.js"
-  ]
+    "static/css/2.f87fbcaa.chunk.css.map": "/calculator/static/css/2.f87fbcaa.chunk.css.map",
+    "static/css/main.6fdcdd19.chunk.css.map": "/calculator/static/css/main.6fdcdd19.chunk.css.map"
+  }
 }
